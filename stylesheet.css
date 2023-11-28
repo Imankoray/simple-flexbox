@@ -19,21 +19,19 @@ h1 {
     font-family: 'Sometype Mono', monospace;
     margin-top: 20px;
     font-weight: 400px;
-
 }
 
 /* seperate class for different colour text */
 #Rocha {
     color: rgb(221, 19, 19);
     font-family: 'Josefin Slab', serif;
-font-family: 'Oswald', sans-serif;
-font-family: 'Sometype Mono', monospace;
-font-weight: 400px;
-
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sometype Mono', monospace;
+    font-weight: 400px;
 }
 
 p {
-     /* Set font size to be compatible on different devices */
+    /* Set font size to be compatible on different devices */
     font-size: 1rem;
 }
 
@@ -57,7 +55,6 @@ img {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-
 }
 
 /* Create three equal columns that sit next to each other */
@@ -88,9 +85,7 @@ img {
     transform: scale(1.2);
     border-radius: 15px;
     box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.776)
-    
 }
-
 
 #col2 {
     background-color: rgba(165, 42, 42, 0);
@@ -98,7 +93,6 @@ img {
 
 #col3 {
     background-color: rgba(100, 148, 237, 0);
-
 }
 
 #col4 {
@@ -115,7 +109,6 @@ img {
     font-family: 'Sometype Mono', monospace;
     font-weight: 400px;
     margin-bottom: 20px;
-    
 }
 
 @media (max-width: 900px) {
